@@ -233,7 +233,7 @@ Tempo estimado: 60 min
 
 1. Uma empresa de táxi cobra a bandeirada de R$ 5,00 e ainda o valor de R$ 1,50 para cada quilômetro rodado. Faça uma **arrow function** que calcule o valor cobrado em uma corrida de 12 km.
 
-2. Faça uma função que recebe por parâmetro o tempo de duração de uma fábrica expressa em segundos e retorna também por parâmetro esse tempo em horas, minutos e segundos.
+2. Faça uma função que recebe por parâmetro o tempo de duração de uma fábrica expressa em segundos e retorna por objeto esse tempo em horas, minutos e segundos.
 
 3. Faça uma função que recebe, por parâmetro, a altura (alt) e o sexo de uma pessoa e retorna o seu peso ideal. Para homens, calcular o peso ideal usando a fórmula peso ideal = 72.7 x alt - 58 e, para mulheres, peso ideal = 62.1 x alt - 44.7.
 
