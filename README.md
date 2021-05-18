@@ -226,8 +226,9 @@ console.log(calcAge);
 
 ## Exercício
 
-1. Para cada video, projetar {id, title} ao array videoAndTitlePairs.
-var newReleases = [
+1. Aplique as funções de map. reduce e filter para o array abaixo:
+~~~ js
+[
             {
                 "id": 70111470,
                 "title": "Die Hard",
@@ -261,6 +262,7 @@ var newReleases = [
                 "bookmark": [{ id:432534, time:65876586 }]
             }
         ]
+~~~
 
 ## Referência
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
